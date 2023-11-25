@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/layoutOnReact/static/css/main.6f5b5ed4.css",
-    "main.js": "/layoutOnReact/static/js/main.689290db.js",
+    "main.css": "/layoutOnReact/static/css/main.3f7d2867.css",
+    "main.js": "/layoutOnReact/static/js/main.1df922af.js",
     "static/js/787.6b0644b0.chunk.js": "/layoutOnReact/static/js/787.6b0644b0.chunk.js",
     "static/media/rain.gif": "/layoutOnReact/static/media/rain.2f38f1a80111eeefa0d1.gif",
-    "static/media/Alisuyyan.png": "/layoutOnReact/static/media/Alisuyyan.637f212aa38b09dc386e.png",
+    "static/media/abd.jpg": "/layoutOnReact/static/media/abd.cc90e5bbc5e7a7c73464.jpg",
     "static/media/reactLogo.png": "/layoutOnReact/static/media/reactLogo.2fafc12f22ae88ec8089.png",
     "index.html": "/layoutOnReact/index.html",
-    "main.6f5b5ed4.css.map": "/layoutOnReact/static/css/main.6f5b5ed4.css.map",
-    "main.689290db.js.map": "/layoutOnReact/static/js/main.689290db.js.map",
+    "main.3f7d2867.css.map": "/layoutOnReact/static/css/main.3f7d2867.css.map",
+    "main.1df922af.js.map": "/layoutOnReact/static/js/main.1df922af.js.map",
     "787.6b0644b0.chunk.js.map": "/layoutOnReact/static/js/787.6b0644b0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f5b5ed4.css",
-    "static/js/main.689290db.js"
+    "static/css/main.3f7d2867.css",
+    "static/js/main.1df922af.js"
   ]
 }

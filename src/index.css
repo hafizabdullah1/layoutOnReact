@@ -78,11 +78,11 @@ aside::-webkit-scrollbar-thumb {
 }
 
 .round {
-  height: 78%;
-  width: 74%; 
+  height: 200px;
+  width: 200px; 
   border-radius: 100%;
   border: 6px solid #2E344E;
-  background-image: url(./img/abd.jpg);
+  background-image: url(../public/person.jpg);
   background-size: 100% 100%;
   cursor: pointer;
 }
